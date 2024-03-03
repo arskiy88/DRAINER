@@ -1,0 +1,7 @@
+echo "# DRAINER" >> README.md 
+git init 
+git add README.md 
+git commit -m "первая фиксация" 
+git Branch -M main 
+git удаленное добавление источника https://github.com/arsky88/DRAINER.git
+ git push - ты родной, главный
